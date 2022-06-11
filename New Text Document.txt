@@ -1,0 +1,21 @@
+//error when submit the order
+in customer/controller line 199 undefined index: gcCart
+
+
+<?php
+// Turn off all error reporting
+error_reporting(0);
+?>
+
+HERE IS AN EDIT
+C:\xampps\htdocs\ecommerce\admin\user\list line 53
+
+//C:\xampps\htdocs\ecommerce\admin\user\list line احنا ممكن نخليها ديسابل ونبررها بانها مفيش ادمين هيمسح اليوزر وحتي لو مش كل الادمن هيوافقوا
+
+//wishlist delete error 
+
+اليوزر لو معرفتش اعمل الدليت والابديت 
+يبقي اليوزرز مش هيتعدلوا ولا هيتمسحوا
+التعديل مبيتعملش لليوزر
+
+contact us edit contact info
